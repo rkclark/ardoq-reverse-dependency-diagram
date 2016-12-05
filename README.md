@@ -1,4 +1,4 @@
-Reverse Dependency Diagram Plugin for Ardoq
+Reverse Dependency Map Plugin for Ardoq
 ======
 
 An alternative version of the out-of-the-box Dependency Map visualisation available in [Ardoq](https://ardoq.com/). 
